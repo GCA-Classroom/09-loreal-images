@@ -2,7 +2,7 @@
 This repository contains product images for use in the **L’Oréal Smart Routine Advisor** and related frontend projects. Images are organized for reliable, fast access via [jsDelivr](https://www.jsdelivr.com/github) CDN.
 
 ## CDN Usage
-You can serve any image in this repo via jsDelivr using the following URL structure: `https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images@main/img/<filename>`
+You can serve any image in this repo via jsDelivr using the following URL structure: `https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images/img/<filename>`
 
 ## License
 Product images are used for educational/demonstration purposes. All trademarks and images are property of their respective brands.
