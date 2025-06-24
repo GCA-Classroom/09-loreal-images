@@ -1,4 +1,4 @@
-# 09: # L’Oréal Product Images CDN
+# 09: L’Oréal Product Images CDN
 This repository contains product images for use in the **L’Oréal Smart Routine Advisor** and related frontend projects. Images are organized for reliable, fast access via [jsDelivr](https://www.jsdelivr.com/github) CDN.
 
 ## CDN Usage
